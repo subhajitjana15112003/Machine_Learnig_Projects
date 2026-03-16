@@ -999,3 +999,5 @@ Applicant_ID,Applicant_Income,Coapplicant_Income,Employment_Status,Age,Marital_S
 998.0,15192.0,8433.0,Contract,48.0,Single,1.0,666.0,1.0,0.4,8581.0,41335.0,16203.0,24.0,Home,Rural,Graduate,Male,MNC,No
 999.0,9083.0,7380.0,Unemployed,50.0,Single,1.0,748.0,3.0,0.31,13491.0,8933.0,10290.0,36.0,Personal,Urban,Graduate,Male,Private,Yes
 1000.0,13093.0,2385.0,Salaried,23.0,Married,1.0,613.0,3.0,0.32,12436.0,25816.0,35818.0,48.0,Personal,Semiurban,Graduate,,Private,No
+
+
